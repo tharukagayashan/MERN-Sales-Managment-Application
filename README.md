@@ -1,1 +1,1 @@
-# ASP.NET-Sales-Managment-Application
+# MERN-Sales-Managment-Application
